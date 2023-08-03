@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  color: #19323c;
+  font-size: 24px;
+}
+
+body,
+input {
+  background-color: #f3f7f0;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #19323c;
+}
+
+img {
+  height: 400px;
+  width: auto;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+input {
+  border-radius: 4px;
+  font-size: 1.1rem;
+}
